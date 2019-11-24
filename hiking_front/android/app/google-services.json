@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189845514554",
+    "firebase_url": "https://capstone-hiking-app.firebaseio.com",
+    "project_id": "capstone-hiking-app",
+    "storage_bucket": "capstone-hiking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189845514554:android:73f5213e80109cc7960803",
+        "android_client_info": {
+          "package_name": "com.example.hiking_front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189845514554-1ju2jhs66g84cqfvh0fkmlbuusgrie1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hiking_front",
+            "certificate_hash": "3bbf1cd75410d596f9d8d6695ee05e69e58fd3c3"
+          }
+        },
+        {
+          "client_id": "189845514554-i53qbbl1oqrf0maidg6mphesu46o92ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuoYKcf6LGUuK9Ss45FvYiKakjs2zcOOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189845514554-i53qbbl1oqrf0maidg6mphesu46o92ti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "189845514554-nehomnqpk2chmq7d4vqfani7csccvf2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hikingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
