@@ -3,7 +3,8 @@
 - 제작 기간 : Sep 2019 ~ Dec 2019
 
 ## Demo
-![capsone](/img/capstone.gif)
+
+<img src="img/capstone.gif" width="300">
 
 
 ## What We Used
@@ -24,3 +25,5 @@
 - [x] 이미지 검색 불러오기
 - [ ] 구글맵 등산로 정보 가져오기
 - [ ] GeoJSON??? 
+- [ ] Firebase Auth
+- [ ] Firebase Storage
