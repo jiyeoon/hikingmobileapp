@@ -33,17 +33,17 @@ dependencies:
   quill_delta: ^1.0.0
   dio: ^3.0.6
 
+  google_maps_flutter: ^0.5.11
+  google_maps_webservice: ^0.0.16
 
+  json_serializable: ^2.0.2
   firebase_core: ^0.2.5  # add dependency for Firebase Core
 
 
-
-
-
-
-
-
 dev_dependencies:
+  pedantic: ^1.4.0
+  build_runner: ^1.2.7
+
   flutter_test:
     sdk: flutter
 
