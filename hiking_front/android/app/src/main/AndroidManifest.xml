@@ -11,10 +11,6 @@
         android:label="hiking_front"
         android:icon="@mipmap/ic_launcher">
 
-        <!-- Add the following entry, with your API key -->
-        <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDqM78Plt99H1ErpNH9hxBtuZRxOBvoo5g"/>
-
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
